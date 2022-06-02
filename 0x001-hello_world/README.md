@@ -1,0 +1,1 @@
+All this file are c programming the following text explain the purposse of each program file 0-processor ---- script that runs a C file through the preprocessor and save the file result into another file

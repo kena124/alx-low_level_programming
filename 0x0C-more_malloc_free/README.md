@@ -1,1 +1,1 @@
-at the root of the folder of the project is mandatory
+ at the root of the folder of the project is mandatory
